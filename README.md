@@ -3,7 +3,7 @@ Olá! Eu sou Thiago Henrique Maia 👋
 💻 Sobre mim
 
 - Programador com mais de 10 anos de experiência em desenvolvimento de sistemas e suporte técnico.
-- Atualmente, trabalho na CIFAIS – Associação dos Policiais Militares do Distrito Federal, atuando com análise de sistemas corporativos, desenvolvimento em C# (Windows Forms) e suporte à infraestrutura de rede.
+- Atualmente, trabalhando na CIFAIS – Associação dos Policiais Militares do Distrito Federal, atuando com análise de sistemas corporativos, desenvolvimento em C# (Windows Forms) e suporte à infraestrutura de rede.
 - Apaixonado por tecnologia, busco sempre aprender novas ferramentas e tecnologias para resolver problemas e criar soluções eficientes.
 
 🎓 Formação Acadêmica
